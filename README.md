@@ -72,7 +72,8 @@ It will ask for file path where to save it.
 
 Once Folder is selected press ok here.
 
-![image](https://github.com/user-attachments/assets/08149336-572a-4fd6-8460-014e074ed7d2)
+![image](https://github.com/user-attachments/assets/4e9ce3f4-7248-4100-b0d3-fd44f2c83e17)
+
 
 
 It will proceed with download:
