@@ -1,6 +1,12 @@
 # YTDownloaderPro
 This is based on yt-dlp Project, C# version of it for people who wants to use GUI instead
 
+Imrovements over DLP Project:
+1. It provides direct GUI to enter your video URL.
+2. It asks for folder to save in GUI.
+3. No need to set environment variable for base dlp.exe to work, it does it through installation automatically for you.
+4. Works best for non tech savvy people.
+
 Below Code is using yt-dlp as base code to download videos, It uses additional dependencies to download videos in Best Available quality.
 
 Direct Link to Installable File:
