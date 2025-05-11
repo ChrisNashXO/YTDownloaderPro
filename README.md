@@ -23,21 +23,24 @@ Installation Steps:
 
 Step 1:
 
-![image](https://github.com/user-attachments/assets/0b94f471-a861-4328-a0d1-117e0015ca33)
+![image](https://github.com/user-attachments/assets/35c7c8c6-93b7-4252-b71f-dac66d763d0f)
+
 
 
 Step 2:
 
-![image](https://github.com/user-attachments/assets/458dac08-7e49-4e13-85e9-7cfa8a8311a2)
+![image](https://github.com/user-attachments/assets/06688a00-2cc7-4df6-9327-c383cdbfb64d)
 
 
 
-![image](https://github.com/user-attachments/assets/787433b6-609e-4682-bb78-c5b345b3540c)
+
+![image](https://github.com/user-attachments/assets/84436bcd-db3e-4784-909a-29cf6220d8b3)
 
 
 Step 3: Thats your Desktop Shortcut to run that application, double click it should pop up your App to enter Youtube Link.
 
-![image](https://github.com/user-attachments/assets/f700b4b3-3e3b-4863-af71-d67cb7fa44e4)
+![image](https://github.com/user-attachments/assets/ad2d5cee-8c9b-4af2-9ac9-03c23a2eaf89)
+
 
 
 
@@ -48,7 +51,8 @@ Below is how it looks after installation
 
 
 
-![image](https://github.com/user-attachments/assets/3ab89a81-ff99-4ff6-bc81-b6bb05eb8f3d)
+![image](https://github.com/user-attachments/assets/f4225cf4-b72c-4c65-a321-54ec2c41868d)
+
 
 
 
